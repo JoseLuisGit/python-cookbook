@@ -1,8 +1,4 @@
 
-
-from calendar import c
-
-
 user_record = ('Alberto', 'alberto@example.com', '79525002', '74102551', '71500025')
 
 name, email, *phones = user_record
