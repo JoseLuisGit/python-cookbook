@@ -12,6 +12,6 @@ print(b)
 
 data = [1,24,("hi", 43),6,7,"Hello"]
 
-_, m,_,n,_,_ = data
+_, m, _, n,_ ,_ = data
 
 print(n) #6
